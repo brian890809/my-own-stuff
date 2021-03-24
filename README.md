@@ -7,3 +7,5 @@ a small collection of the scripts I create to make my life a bit easier
 - photos_sort_by_date.py
   > a script that sorts a large collection of photos by year and month (used for Android Local Backups)
   > put the script at the directory one wants to sort by date then run by python
+- balanceWithIndividuals.js
+  > a spreadsheet and a backend script that tracks one's balance with individuals, reducing human memories and scattered notes.
